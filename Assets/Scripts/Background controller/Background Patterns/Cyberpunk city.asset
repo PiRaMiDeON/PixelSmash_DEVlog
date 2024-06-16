@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8104bced25787ab4cb3f06a8967555c5, type: 3}
+  m_Name: Cyberpunk city
+  m_EditorClassIdentifier: 
+  patternBehavoiur: 1
+  Layers:
+  - {fileID: 4823930253618917311, guid: e814d758b03cdce4baf7e0cc96ad2896, type: 3}
+  - {fileID: 7440803058882925339, guid: 75b9e17ab46ebd1459c4c52402c7b6b3, type: 3}
+  - {fileID: 5722106416578359426, guid: 934a833132ae7d14e9ec24d608c308e3, type: 3}
+  PatternMovingDistance: -5
+  MovingTime: 3

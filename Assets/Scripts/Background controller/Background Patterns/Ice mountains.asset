@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8104bced25787ab4cb3f06a8967555c5, type: 3}
+  m_Name: Ice mountains
+  m_EditorClassIdentifier: 
+  patternBehavoiur: 1
+  Layers:
+  - {fileID: 1727133282238458960, guid: 42d3cc766e6968d4bb003a2ed188813e, type: 3}
+  - {fileID: 1388965182082399574, guid: 57751e02e49167c4ba179ecc5bf2963d, type: 3}
+  - {fileID: 3670102055164287592, guid: f29f9b9eb8cca9c4dbe08c3b8864b3a1, type: 3}
+  PatternMovingDistance: -5
+  MovingTime: 4

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8104bced25787ab4cb3f06a8967555c5, type: 3}
+  m_Name: Jungle
+  m_EditorClassIdentifier: 
+  patternBehavoiur: 1
+  Layers:
+  - {fileID: 2153711842327583935, guid: b5a5107eef6fae741ae4cff7799a0f1a, type: 3}
+  - {fileID: 2855009926497144503, guid: 7baa9256628522e44975ac605b86cd64, type: 3}
+  - {fileID: 2337147942689307537, guid: 67bd0c2eae4458241ad15eb9557ef22c, type: 3}
+  PatternMovingDistance: -5
+  MovingTime: 2

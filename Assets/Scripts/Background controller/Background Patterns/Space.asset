@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8104bced25787ab4cb3f06a8967555c5, type: 3}
+  m_Name: Space
+  m_EditorClassIdentifier: 
+  patternBehavoiur: 1
+  Layers:
+  - {fileID: 2929271544163827213, guid: 462eede64a5f79f42892f8676de6a547, type: 3}
+  - {fileID: 2071497147223111967, guid: 4c962a41d74811a47923301d8df7b376, type: 3}
+  - {fileID: 7545082304163006906, guid: ed0892310e495f14ab05431ec690eaf6, type: 3}
+  - {fileID: 7311687116581515188, guid: 13db654e9c9060943b608121048d5bb5, type: 3}
+  - {fileID: 2046946100176706086, guid: 4b3c698f06cf1794a913bd5943031b8b, type: 3}
+  PatternMovingDistance: -5
+  MovingTime: 7
