@@ -1,5 +1,5 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/JoyT/blob/main/GitHub.gif' width=1000>
+      <img src='https://github.com/PiRaMiDeON/PixelSmash_Devlog/blob/main/GitHub_ProfileGif.gif' width=1000>
 </p>
 
 <p align="center">
